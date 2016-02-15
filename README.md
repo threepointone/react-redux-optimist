@@ -24,4 +24,14 @@ dispatch(o.revert({payload, error, ...}))
 
 ```
 
- - from the work on [redux-react-local](https://github.com/threepointone/redux-react-local)
+getting started
+---
+
+- integrate redux-optimist into your redux stack
+- put the `<Optimist>` tag high up in your react tree
+- read the `optimist` helper function off `context`
+- dispatch!
+
+
+
+- from the work on [redux-react-local](https://github.com/threepointone/redux-react-local)
