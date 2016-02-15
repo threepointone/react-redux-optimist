@@ -1,6 +1,6 @@
 {
   "name": "react-redux-optimist",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "react bindings for redux-optimist",
   "main": "lib/index.js",
   "scripts": {
